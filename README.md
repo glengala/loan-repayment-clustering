@@ -1,5 +1,18 @@
-# loan-repayment-clustering
-Using a loan dataset, I want to identify which customer groups are more likely to repay loans late using K-Modes clustering algorithm on categorical features. This will help management understand repayment risk and inform lending strategies.
+## 🏦 Loan Repayment Clustering: Understanding Borrower Risk
+
+Exploring which customer groups are more likely to repay loans late using unsupervised learning.
+
+## Project Story
+Every loan tells a story.
+Behind repayment patterns lie human circumstances — income, housing, opportunity.
+
+In this project, I explored how those factors cluster together and what they reveal about loan repayment risk. The goal wasn’t to predict individual defaulters, but to understand which borrower profiles carry more risk, helping lenders make fairer, more informed decisions.
+
+## Objective
+
+*Question: Can we segment borrowers into meaningful groups and identify which groups are most likely to repay loans late?*
+
+This analysis combines data storytelling and unsupervised machine learning to uncover repayment patterns from categorical data.
 
 ## Data
 Dataset is downloaded from this link:
