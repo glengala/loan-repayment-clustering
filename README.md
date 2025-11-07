@@ -28,10 +28,10 @@ https://www.kaggle.com/datasets/prakashraushan/loan-dataset
 
 | Cluster | Customer Profile                                      | % Late Repayment | Interpretation                                                      |
 | ------- | ----------------------------------------------------- | ---------------- | ------------------------------------------------------------------- |
-| **3**   | Low income (1), Grade C, Very high interest, Rent     | **50.7%**        | 🔴 High risk – financially stretched borrowers with expensive loans |
-| **0**   | Mid-high income (4), Grade B, Medium interest, Rent   | 18.5%            | 🟠 Moderate risk – decent income but high living costs              |
-| **1**   | Low income (1), Grade A, Low interest, Rent           | 16.2%            | 🟢 Lower risk – safer loans but financially limited                 |
-| **2**   | High income (5), Grade A, Very low interest, Mortgage | **8.3%**         | 🟢 Very low risk – stable borrowers with affordable loans           |
+| **0**   | Very Low income, Grade C, Very high interest, Rent    | **42.57%**        | 🔴 High risk – financially stretched borrowers with expensive loans |
+| **1**   | Very Low income , Grade B, Medium interest, Rent   | 19.34%            | 🟠 Moderate risk – decent income but high living costs              |
+| **3**   | Medium income , Grade A, Low interest, Mortgage           | 10.61%            | 🟢 Lower risk – safer loans but financially limited                 |
+| **2**   | Very High income , Grade A, Very low interest, Mortgage | **6.63%**         | 🟢 Very low risk – stable borrowers with affordable loans           |
 
 *Noted that Grade A is the highest (A>B>C>D>E)*
 
@@ -65,7 +65,7 @@ Heatmap:
 
 ![Cluster Profile Heatmap](Results/cluster_loan_rate.png)
 
-The contrast between Cluster 3 and Cluster 2 visually highlights how income, loan terms, and housing status interact to influence repayment reliability.
+The contrast between Cluster 0 and Cluster 2 visually highlights how income, loan terms, and housing status interact to influence repayment reliability.
 
 ## Insights & Business Impact
 
