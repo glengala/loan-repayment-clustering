@@ -39,9 +39,10 @@ https://www.kaggle.com/datasets/prakashraushan/loan-dataset
 ## Visual Summary
 Correlation Matrix
 
-![Correlation Matrix](results/correlation_matrix_spearman.png)
+![Correlation Matrix](Results/correlation_matrix_spearman.png)
 
 Default Rate by Cluster
+
 ![Default Rate](Results/Cluster_default_rate_chart.jpg)
 
 Cluster Feature Profile Heatmap
