@@ -45,7 +45,7 @@ Default Rate by Cluster
 
 ![Default Rate](Results/cluster_loan_default.jpg)
 
-![Default Rate](Results/default_rate_chart.jpg)
+![Default Rate](Results/default_rate_chart.png)
 
 Cluster Feature Profile:
 
@@ -55,15 +55,15 @@ Table:
 
 Heatmap:
 
-![Cluster Profile Heatmap](results/cluster_home_ownership.png)
+![Cluster Profile Heatmap](Results/cluster_home_ownership.png)
 
-![Cluster Profile Heatmap](results/cluster_income.png)
+![Cluster Profile Heatmap](Results/cluster_income.png)
 
-![Cluster Profile Heatmap](results/cluster_loan_default.jpg)
+![Cluster Profile Heatmap](Results/cluster_loan_default.jpg)
 
-![Cluster Profile Heatmap](results/cluster_loan_grade.png)
+![Cluster Profile Heatmap](Results/cluster_loan_grade.png)
 
-![Cluster Profile Heatmap](results/cluster_loan_rate.png)
+![Cluster Profile Heatmap](Results/cluster_loan_rate.png)
 
 The contrast between Cluster 3 and Cluster 2 visually highlights how income, loan terms, and housing status interact to influence repayment reliability.
 
