@@ -72,11 +72,11 @@ The contrast between Cluster 0 and Cluster 2 visually highlights how income, loa
 
 - Borrowers with low income and rental housing show the highest likelihood of late repayment, especially when loan grades and rates are unfavourable.
 - Borrowers with mortgages and higher income consistently show the lowest repayment risk.
-- The segmentation provides a risk map — lenders can use this to adjust loan offers, monitor at-risk groups, or design early-warning systems.
+- The segmentation provides a risk map, lenders can use this to adjust loan offers, monitor at-risk groups, or design early-warning systems.
 
 ## Reflection
 
-This project reminded me that clustering isn’t just math — it’s a lens on human behaviour.
+This project reminded me that clustering isn’t just math, it’s a lens on human behaviour.
 The data revealed how financial conditions, opportunity, and risk are quietly connected.
 As a data scientist, my goal was to translate these patterns into insights a business leader can act on.
 
