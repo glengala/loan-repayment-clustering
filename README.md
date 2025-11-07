@@ -39,7 +39,7 @@ https://www.kaggle.com/datasets/prakashraushan/loan-dataset
 ## Visual Summary
 Correlation Matrix
 
-![Correlation Matrix](Results/correlation_matrix_spearman.png)
+![Correlation Matrix](Results/correlation_matrix_spearman.jpg)
 
 Default Rate by Cluster
 
