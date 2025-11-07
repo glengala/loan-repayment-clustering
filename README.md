@@ -43,9 +43,18 @@ Correlation Matrix
 
 Default Rate by Cluster
 
-![Default Rate](Results/Cluster_default_rate_chart.jpg)
+![Default Rate](Results/cluster_loan_default.jpg)
 
-Cluster Feature Profile Heatmap
+![Default Rate](Results/default_rate_chart.jpg)
+
+Cluster Feature Profile:
+
+Table:
+
+![Default Rate](Results/Cluster_profile.jpg)
+
+Heatmap:
+
 ![Cluster Profile Heatmap](results/cluster_profile_heatmap.png)
 
 The contrast between Cluster 3 and Cluster 2 visually highlights how income, loan terms, and housing status interact to influence repayment reliability.
