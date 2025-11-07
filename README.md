@@ -55,7 +55,15 @@ Table:
 
 Heatmap:
 
-![Cluster Profile Heatmap](results/cluster_profile_heatmap.png)
+![Cluster Profile Heatmap](results/cluster_home_ownership.png)
+
+![Cluster Profile Heatmap](results/cluster_income.png)
+
+![Cluster Profile Heatmap](results/cluster_loan_default.jpg)
+
+![Cluster Profile Heatmap](results/cluster_loan_grade.png)
+
+![Cluster Profile Heatmap](results/cluster_loan_rate.png)
 
 The contrast between Cluster 3 and Cluster 2 visually highlights how income, loan terms, and housing status interact to influence repayment reliability.
 
