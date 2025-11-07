@@ -42,7 +42,7 @@ Correlation Matrix
 ![Correlation Matrix](results/correlation_matrix_spearman.png)
 
 Default Rate by Cluster
-![Default Rate](results/Cluster_default_rate.jpg)
+![Default Rate](Results/Cluster_default_rate_chart.jpg)
 
 Cluster Feature Profile Heatmap
 ![Cluster Profile Heatmap](results/cluster_profile_heatmap.png)
