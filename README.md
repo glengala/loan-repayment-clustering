@@ -47,6 +47,7 @@ Default Rate by Cluster
 
 Cluster Feature Profile Heatmap
 ![Cluster Profile Heatmap](results/cluster_profile_heatmap.png)
+
 The contrast between Cluster 3 and Cluster 2 visually highlights how income, loan terms, and housing status interact to influence repayment reliability.
 
 ## Insights & Business Impact
