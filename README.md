@@ -45,6 +45,8 @@ Default Rate by Cluster
 
 ![Default Rate](Results/cluster_loan_default.jpg)
 
+*Default rate for each cluster in %. 0= No Default, 1= Default*
+
 ![Default Rate](Results/default_rate_chart.png)
 
 Cluster Feature Profile:
@@ -58,8 +60,6 @@ Heatmap:
 ![Cluster Profile Heatmap](Results/cluster_home_ownership.png)
 
 ![Cluster Profile Heatmap](Results/cluster_income.png)
-
-![Cluster Profile Heatmap](Results/cluster_loan_default.jpg)
 
 ![Cluster Profile Heatmap](Results/cluster_loan_grade.png)
 
