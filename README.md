@@ -4,7 +4,7 @@ Exploring which customer groups are more likely to repay loans late using unsupe
 
 ## Project Story
 Every loan tells a story.
-Behind repayment patterns lie human circumstances — income, housing, opportunity.
+Behind repayment patterns lie human circumstances: income, housing, opportunity.
 
 In this project, I explored how those factors cluster together and what they reveal about loan repayment risk. The goal wasn’t to predict individual defaulters, but to understand which borrower profiles carry more risk, helping lenders make fairer, more informed decisions.
 
